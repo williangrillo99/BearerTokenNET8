@@ -1,0 +1,6 @@
+@BearerTokenNET8_HostAddress = http://localhost:5032
+
+GET {{BearerTokenNET8_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
